@@ -1,0 +1,50 @@
+[ 
+    {
+        "id": 1,
+        "nombre": "Cirilo",
+        "edad": 9,
+        "genero": "M",
+        "nacionalidad": "Arg",
+        "empleo": "N/S"
+    },
+    {
+        "id": 2,
+        "nombre": "Charango",
+        "edad": 8,
+        "genero": "M",
+        "nacionalidad": "Arg",
+        "empleo": "Actor"
+    },
+    {
+        "id": 3,
+        "nombre": "Panthom",
+        "edad": 8,
+        "genero": "M",
+        "nacionalidad": "Arg",
+        "empleo": "Hijo"
+    },
+    {
+        "id": 4,
+        "nombre": "Mama",
+        "edad":  9,
+        "genero": "F",
+        "nacionalidad": "Arg",
+        "empleo": "Mama"
+    },
+    {
+        "id": 5,
+        "nombre": "Africana",
+        "edad": 8,
+        "genero": "F",
+        "nacionalidad": "Arg",
+        "empleo": "N/S"
+    },
+    {
+        "id": 6,
+        "nombre": "Gru",
+        "edad": "N/S",
+        "genero": "F",
+        "nacionalidad": "Arg",
+        "empleo": "N/S"
+    }
+]
